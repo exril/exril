@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @exril [![wakatime](https://wakatime.com/badge/user/ca8f42eb-e5be-4b0b-9e0a-fae728357c5d.svg)](https://wakatime.com/@ca8f42eb-e5be-4b0b-9e0a-fae728357c5d)
+- 👋 Hi, I’m @exril 
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on github.com/exril/gym-webapp
