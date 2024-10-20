@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on github.com/exril/gym-webapp
-- 📫 How to reach me wwzp@proton.me :3 throw a mail
+- 📫 How to reach me mail@exril.xyz :3 throw a mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't! Technically, botanically speaking, bananas qualify as berries because they come from a single flower with one ovary, whereas strawberries develop from a flower with multiple ovaries. Wild, right?
 
