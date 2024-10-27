@@ -6,6 +6,18 @@
 - 😄 Pronouns: he/him
 - ⚰️ I am currently working on [grave](https://gravebot.xyx)
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't! Technically, botanically speaking, bananas qualify as berries because they come from a single flower with one ovary, whereas strawberries develop from a flower with multiple ovaries. Wild, right?
+
+
+
+  <div align="center"> 
+    <a href="https://github.com/exril#gh-dark-mode-only">
+      <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=exril&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+        alt="My Language stats"
+        height="370"
+      />
+    </a>
+  </div>
   
   <!-- Streal stats (Light mode) -->
   <div align="center">
@@ -16,6 +28,7 @@
        />
     </a>
   </div>
+  
   
   
   <!-- Streal stats (Dark mode) -->
