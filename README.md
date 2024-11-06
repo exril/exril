@@ -56,7 +56,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📫 How to Reach Me
-- **Discord**: @sh.ts
+- **Discord**: @githubpages
 - **Email**: mail@exril.xyz
 - **GitHub**: [exril](https://github.com/exril)
 
