@@ -22,7 +22,8 @@
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![net/http](https://img.shields.io/badge/net%2Fhttp-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
+![Axum](https://img.shields.io/badge/Axum-7C3AED?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-333333?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
